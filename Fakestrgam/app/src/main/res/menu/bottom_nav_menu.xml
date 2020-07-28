@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Feed"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Feed" />
+
+    <item
+        android:id="@+id/navigation_Photo"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:onClick="AddPicture"
+        android:title="Photo" />
+
+    <item
+        android:id="@+id/navigation_Profile"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Profile" />
+
+</menu>

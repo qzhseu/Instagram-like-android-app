@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fakestrgam</string>
+    <string name="Text_email">Email</string>
+    <string name="Text_password">Password</string>
+    <string name="Button_login">Log in</string>
+    <string name="Button_signup">Sign UP</string>
+    <string name="tv_password">Password:</string>
+    <string name="tv_email">Email:</string>
+    <string name="tv_info_email">This email address is invalide</string>
+    <string name="tv_info_password">The password is wrong</string>
+    <string name="tvpicture">Set Display Picture</string>
+    <string name="etemail">Email</string>
+    <string name="etpassword">Password</string>
+    <string name="etconfirmpassword">Confirm Password</string>
+    <string name="etusername">Username</string>
+    <string name="etbio">A short bio</string>
+    <string name="btsignup">SignUp</string>
+    <string name="tvinfocconfpass">Password does not match</string>
+    <string name="tvusername">TextView</string>
+    <string name="tvbio">TextView</string>
+    <string name="btlogout">Log out</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_profile_nav">Profile_nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
